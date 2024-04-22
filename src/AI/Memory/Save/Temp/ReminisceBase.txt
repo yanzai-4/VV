@@ -1,0 +1,6 @@
+ReminisceBase_Node_Num:5
+15#animal-4=what-4=fox-4#animal
+15#animal-4=what-4=fish-4#animal
+20#what-6=my-6=name-6#vivi
+20#what-6=vivi-6#my-name
+15#your-2=name-2=what-6=yan-6#your-name
